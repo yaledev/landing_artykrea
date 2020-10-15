@@ -1,0 +1,8 @@
+@font-face{
+  font-family: 'absolute';
+  src: url('../fonts/the-absolute.otf');
+}
+
+h1,h2,h3,h4,h5,h6,p,span{
+  font-family: 'absolute';
+}
